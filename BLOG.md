@@ -1,5 +1,7 @@
 # Introducing Tailwind CSS Sandbox Max: Prototyping Layouts Directly in the Browser
 
+> **Keywords:** Tailwind CSS, visual editor, HTML editor, CSS sandbox, layout builder, front-end developer tool, web inspector, spacing sliders, flexbox builder, Chrome Extension, design playground, real-time CSS, live styling
+
 As front-end developers, we spend a massive chunk of our time toggling between our text editors and browser Developer Tools. Inspecting elements, adjusting margins, tweaking flex alignments, and rewriting utility class lists can feel tedious. 
 
 What if you could interactively edit layouts directly on a live page with simple sliders and dropdowns, seeing changes compile in real-time?
